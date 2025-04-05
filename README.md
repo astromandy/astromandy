@@ -1,4 +1,4 @@
-👋 Hi there! I'm Mandy
+-👋 Hi there! I'm Mandy.
 I'm currently a PhD student in Astrophysics, focused on the characterization of cataclysmic variable stars. 
 I combine observational data analysis with machine learning techniques to better understand these fascinating systems.
 
