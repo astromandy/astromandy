@@ -2,7 +2,7 @@
 I'm currently a PhD student in Astrophysics, focused on the characterization of cataclysmic variable stars. 
 I combine observational data analysis with machine learning techniques to better understand these fascinating systems.
 
-🔭 Research interests: cataclysmic variables, time-series analysis, spectroscopy
+🔭 Research interests: cataclysmic variables, time-series analysis, spectroscopy, data science
 
 🧠 Skills: Python, data science, machine learning, automation, time-series, astronomical data
 
