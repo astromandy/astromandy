@@ -1,6 +1,6 @@
 # 🌌 Hey, I'm Mandy!
-
-I'm a **Data Scientist** and currently a **PhD student in Astrophysics**, with a **Master’s degree in Astronomy** and a solid background in scientific data analysis.  
+From Stars to Startups ✨
+I'm a **Data Scientist** and currently a **PhD student in Astrophysics**, with a **Master’s degree in Astronomy** and a solid background in scientific data analysis. 
 I live and breathe **data** — from decoding the behavior of **cataclysmic variable stars** to building machine learning models that solve real-world problems.
 
 Whether it's light curves or customer churn, my passion is the same: **turn messy data into meaningful insights**.
