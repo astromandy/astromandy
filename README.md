@@ -93,7 +93,7 @@ Check out my [Astrophysics Portfolio](https://github.com/astromandy/Astrophysics
 - Build scripts for **spectral classification**, **Lomb-Scargle periodograms**, and **data conditioning**
 - Automate data retrieval and cross-matching from **SDSS**, **LAMOST**, **TESS** and **ASAS-SN**
 
-My academic work sharpened my ability to extract signal from noise — a mindset I now apply to every data science project.
+My academic work sharpened my ability to extract signal from noise, a mindset I now apply to every data science project.
 
 ---
 
@@ -111,7 +111,7 @@ I’m seeking **Data Scientist/Analyst** or **Machine Learning Engineer** roles 
 - 💼 [LinkedIn](https://www.linkedin.com/in/amanda-silva-de-araujo-a8660635a/)
 - 📧 amandadearaujo@on.br
 
-If you're hiring — let's talk. If you're building cool things with data — let’s collaborate.
+If you're hiring, let's talk. If you're building cool things with data, let’s collaborate.
 
 ---
 
